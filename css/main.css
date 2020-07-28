@@ -118,17 +118,26 @@ textarea {
     
     .card {
         margin-top: 3em;
+        margin-bottom: 3em;
         font-family: 'Bebas Neue', cursive;
         font-size: 25px;
 
     }
 
+    nav {
+        font-family: 'Bebas Neue', cursive;
+
+    }
+
     figure{   
        
-        height: 300px;
-        width: 300px;
+        
         justify-content: center !important;
 
+    }
+
+    a {
+        color: white !important;
     }
 
     
